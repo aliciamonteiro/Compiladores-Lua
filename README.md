@@ -41,4 +41,4 @@ Algumas características da linguagem:
 4. Exemplo de código:  
 
 ```lua
-print("Olá, mundo! Estou rodando Lua")
+print("Olá, estou no mundo da Lua!")
