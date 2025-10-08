@@ -87,6 +87,7 @@ Siga os passos abaixo para preparar seu ambiente de desenvolvimento e executar o
     - Navegue até a pasta de exemplos com o comando: `cd Exemplos`
     - Execute um dos arquivos, por exemplo:
       
+      
     ```bash
     lua Fundamentos.lua
     ```
