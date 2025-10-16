@@ -11,7 +11,7 @@
   <h1>Linguagem Lua - Um projeto para a disciplina de <strong>Compiladores e Paradigmas da Computação</strong>.</p>
 </div>
 
-## 👩‍💻 Autores - Grupo 4
+## Autores - Grupo 4
 
 **Docente:** Sebastião Alves  
 **Discentes:** Alicia Monteiro, Eduardo Couto, João Vitor Fernandes, Kleiton Josivan e Robert Danilo  
