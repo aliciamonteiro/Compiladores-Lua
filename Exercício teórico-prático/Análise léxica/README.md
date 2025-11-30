@@ -30,11 +30,10 @@ O analisador é capaz de:
 O arquivo **exemplos_teste.txt** contém valores utilizados para teste.
 
 **Exemplos:**
-- `R$1.234,56`
-- `USD$10.000,00`
-- `euro45,99`
-- `$999,00`
-- `BRL$1,23`
+- `BRL1.234,56`
+- `usd9.999,99`
+- `(Peso12.345,67)`
+- `$0,50`
 
 ## Como executar o código
 
