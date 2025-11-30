@@ -25,11 +25,7 @@ O analisador é capaz de:
 
 ---
 
-## Estrutura dos arquivos
-
-├── analisador_lexico.py     # Código principal
-├── exemplos_teste.txt       # Arquivo de testes fornecido
-└── README.md                # Este documento
+## Estrutura do arquivo
 
 O arquivo **exemplos_teste.txt** contém valores utilizados para teste.
 
