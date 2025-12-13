@@ -1,4 +1,4 @@
-**Exercício teórico-prático — Análise Sintática — 2ª Avaliação**
+## **Exercício teórico-prático — Análise Sintática — 2ª Avaliação**
 
 Este programa implementa um **analisador sintático** com o objetivo de reconhecer e validar as diferentes formas de acesso a colunas em datasets utilizando a biblioteca Pandas da linguagem Python.
 
@@ -22,7 +22,7 @@ O analisador é capaz de:
 
 ## Estrutura do analisador
 
-O analisador trabalha com expressões que seguem o padrão geral: Onde o **índice** pode assumir diferentes formatos, conforme as regras definidas pela gramática da atividade.
+O analisador trabalha com expressões que seguem o padrão geral, onde o **índice** pode assumir diferentes formatos, conforme as regras definidas pela gramática da atividade.
 
 **Exemplos de acessos válidos:**
 
