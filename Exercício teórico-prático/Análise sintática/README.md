@@ -37,7 +37,7 @@ O analisador trabalha com expressões que seguem o padrão geral, onde o **índi
 
 ## Como executar o código
 
-1. Salve o código em um arquivo, por exemplo: analisador_sintatico.py
+1. Salve o código em um arquivo, por exemplo: **analisador_sintatico.py**
 2. No terminal, navegue até a pasta onde o arquivo está salvo e execute:
 
 ```bash
@@ -61,4 +61,4 @@ Quando a expressão não atende às regras sintáticas definidas, o programa exi
 
 ---
 
-Projeto desenvolvido como parte da **3ª Avaliação** da disciplina de **Compiladores e paradigmas de programação**.
+Projeto desenvolvido como parte da **2ª Avaliação** da disciplina de **Compiladores e paradigmas de programação**.
